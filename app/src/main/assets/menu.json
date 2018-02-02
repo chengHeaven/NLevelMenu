@@ -1,0 +1,262 @@
+[
+  {
+    "id": "ABCDEFGH1",
+    "name": "第一级",
+    "menu": [
+      {
+        "id": "ABCDEFGH2",
+        "name": "第二级",
+        "menu": [
+          {
+            "id": "ABCDEFGH8",
+            "name": "第三级",
+            "menu": [
+              {
+                "id": "ABCDEFGH9",
+                "name": "第四级",
+                "menu": [
+                  {
+                    "id": "ABCDEFGH10",
+                    "name": "第五级"
+                  }
+                ]
+              },
+              {
+                "id": "ABCDEFGH11",
+                "name": "第四级"
+              }
+            ]
+          },
+          {
+            "id": "ABCDEFGH12",
+            "name": "第三级",
+            "menu": [
+              {
+                "id": "ABCDEFGH14",
+                "name": "第四级"
+              }
+            ]
+          },
+          {
+            "id": "ABCDEFGH13",
+            "name": "第三级"
+          }
+        ]
+      },
+      {
+        "id": "ABCDEFGH3",
+        "name": "第二级",
+        "menu": [
+          {
+            "id": "ABCDEFGH15",
+            "name": "第三级",
+            "menu": [
+              {
+                "id": "ABCDEFGH16",
+                "name": "第四级",
+                "menu": [
+                  {
+                    "id": "ABCDEFGH17",
+                    "name": "第五级"
+                  }
+                ]
+              },
+              {
+                "id": "ABCDEFGH18",
+                "name": "第四级"
+              }
+            ]
+          },
+          {
+            "id": "ABCDEFGH19",
+            "name": "第三级",
+            "menu": [
+              {
+                "id": "ABCDEFGH20",
+                "name": "第四级"
+              }
+            ]
+          },
+          {
+            "id": "ABCDEFGH21",
+            "name": "第三级"
+          }
+        ]
+      },
+      {
+        "id": "ABCDEFGH4",
+        "name": "第二级",
+        "menu": [
+          {
+            "id": "ABCDEFGH22",
+            "name": "第三级",
+            "menu": [
+              {
+                "id": "ABCDEFGH23",
+                "name": "第四级",
+                "menu": [
+                  {
+                    "id": "ABCDEFGH24",
+                    "name": "第五级"
+                  }
+                ]
+              },
+              {
+                "id": "ABCDEFGH25",
+                "name": "第四级"
+              }
+            ]
+          },
+          {
+            "id": "ABCDEFGH26",
+            "name": "第三级",
+            "menu": [
+              {
+                "id": "ABCDEFGH27",
+                "name": "第四级"
+              }
+            ]
+          },
+          {
+            "id": "ABCDEFGH28",
+            "name": "第三级"
+          }
+        ]
+      },
+      {
+        "id": "ABCDEFGH5",
+        "name": "第二级",
+        "menu": [
+          {
+            "id": "ABCDEFGH29",
+            "name": "第三级",
+            "menu": [
+              {
+                "id": "ABCDEFGH30",
+                "name": "第四级",
+                "menu": [
+                  {
+                    "id": "ABCDEFGH31",
+                    "name": "第五级"
+                  }
+                ]
+              },
+              {
+                "id": "ABCDEFGH32",
+                "name": "第四级"
+              }
+            ]
+          },
+          {
+            "id": "ABCDEFGH33",
+            "name": "第三级",
+            "menu": [
+              {
+                "id": "ABCDEFGH34",
+                "name": "第四级"
+              }
+            ]
+          },
+          {
+            "id": "ABCDEFGH35",
+            "name": "第三级",
+            "menu": [
+              {
+                "id": "ABCDEFGH49",
+                "name": "第四级",
+                "menu": [
+                  {
+                    "id": "ABCDEFGH50",
+                    "name": "第五级"
+                  },
+                  {
+                    "id": "ABCDEFGH51",
+                    "name": "第五级"
+                  },
+                  {
+                    "id": "ABCDEFGH52",
+                    "name": "第五级"
+                  },
+                  {
+                    "id": "ABCDEFGH53",
+                    "name": "第五级"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ABCDEFGH6",
+        "name": "第二级",
+        "menu": [
+          {
+            "id": "ABCDEFGH36",
+            "name": "第三级",
+            "menu": [
+              {
+                "id": "ABCDEFGH37",
+                "name": "第四级",
+                "menu": [
+                  {
+                    "id": "ABCDEFGH38",
+                    "name": "第五级"
+                  },
+                  {
+                    "id": "ABCDEFGH44",
+                    "name": "第五级"
+                  }
+                ]
+              },
+              {
+                "id": "ABCDEFGH39",
+                "name": "第四级",
+                "menu": [
+                  {
+                    "id": "ABCDEFGH45",
+                    "name": "第五级"
+                  },
+                  {
+                    "id": "ABCDEFGH46",
+                    "name": "第五级"
+                  },
+                  {
+                    "id": "ABCDEFGH47",
+                    "name": "第五级"
+                  },
+                  {
+                    "id": "ABCDEFGH48",
+                    "name": "第五级"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ABCDEFGH40",
+            "name": "第三级",
+            "menu": [
+              {
+                "id": "ABCDEFGH41",
+                "name": "第四级"
+              },
+              {
+                "id": "ABCDEFGH43",
+                "name": "第四级"
+              }
+            ]
+          },
+          {
+            "id": "ABCDEFGH42",
+            "name": "第三级"
+          }
+        ]
+      },
+      {
+        "id": "ABCDEFGH7",
+        "name": "第二级"
+      }
+    ]
+  }
+]
